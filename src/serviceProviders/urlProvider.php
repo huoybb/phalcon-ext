@@ -6,9 +6,9 @@
  * Time: 12:05
  */
 
-namespace App\serviceProviders;
+namespace huoybb\phalconExt\serviceProviders;
 
-use App\myPlugins\myProvider;
+use huoybb\phalconExt\myPlugins\myProvider;
 use ConfigFacade;
 use Phalcon\Mvc\Url as UrlResolver;
 

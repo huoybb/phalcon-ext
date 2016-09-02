@@ -1,5 +1,5 @@
 <?php
-namespace App\myPlugins;
+namespace huoybb\phalconExt\myPlugins;
 /**
  * Created by PhpStorm.
  * User: ThinkPad

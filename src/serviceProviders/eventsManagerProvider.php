@@ -6,12 +6,12 @@
  * Time: 17:08
  */
 
-namespace App\serviceProviders;
+namespace huoybb\phalconExt\serviceProviders;
 
 
-use App\eventsHandlers\myTestEventHandler;
-use App\myPlugins\myEventManager;
-use App\myPlugins\myProvider;
+use huoybb\phalconExt\eventsHandlers\myTestEventHandler;
+use huoybb\phalconExt\myPlugins\myEventManager;
+use huoybb\phalconExt\myPlugins\myProvider;
 
 class eventsManagerProvider extends myProvider
 {

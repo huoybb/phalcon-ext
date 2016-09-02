@@ -6,11 +6,11 @@
  * Time: 8:47
  */
 
-namespace App\serviceProviders;
+namespace huoybb\phalconExt\serviceProviders;
 
 
-use App\myPlugins\myProvider;
-use App\myPlugins\myAuth;
+use Apphuoybb\phalconExt\myPlugins\myProvider;
+use huoybb\phalconExt\myPlugins\myAuth;
 
 class authProvider extends myProvider
 {

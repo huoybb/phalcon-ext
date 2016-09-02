@@ -1,5 +1,5 @@
 <?php
-namespace App\myPlugins;
+namespace huoybb\phalconExt\myPlugins;
 
 use Phalcon\Mvc\Controller;
 use Phalcon\Mvc\Dispatcher;

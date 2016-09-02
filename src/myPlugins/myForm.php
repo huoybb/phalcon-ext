@@ -6,7 +6,7 @@
  * Time: 21:57
  */
 
-namespace App\myPlugins;
+namespace huoybb\phalconExt\myPlugins;
 
 
 use Phalcon\Forms\Element\Submit;

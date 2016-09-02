@@ -6,10 +6,10 @@
  * Time: 12:22
  */
 
-namespace App\serviceProviders;
+namespace huoybb\phalconExt\serviceProviders;
 
 
-use App\myPlugins\myProvider;
+use huoybb\phalconExt\myPlugins\myProvider;
 use Phalcon\Events\Event;
 use Phalcon\Mvc\Dispatcher;
 use RequestFacade;

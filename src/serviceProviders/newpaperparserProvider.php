@@ -6,14 +6,14 @@
  * Time: 15:28
  */
 
-namespace App\serviceProviders;
+namespace huoybb\phalconExt\serviceProviders;
 
 
-use App\myPlugins\myProvider;
-use App\webParser\abbaocn;
-use App\webParser\hqcknet;
-use App\webParser\jdqucom;
-use App\webParser\parserManager;
+use huoybb\phalconExt\myPlugins\myProvider;
+use huoybb\phalconExt\webParser\abbaocn;
+use huoybb\phalconExt\webParser\hqcknet;
+use huoybb\phalconExt\webParser\jdqucom;
+use huoybb\phalconExt\webParser\parserManager;
 
 class newpaperparserProvider extends myProvider
 {

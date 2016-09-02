@@ -6,9 +6,9 @@
  * Time: 12:21
  */
 
-namespace App\serviceProviders;
+namespace huoybb\phalconExt\serviceProviders;
 
-use App\myPlugins\myProvider;
+use huoybb\phalconExt\myPlugins\myProvider;
 use Phalcon\Session\Adapter\Files as SessionAdapter;
 
 class sessionProvider extends myProvider

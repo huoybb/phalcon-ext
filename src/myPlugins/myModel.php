@@ -5,7 +5,7 @@
  * Date: 2015/7/16
  * Time: 13:44
  */
-namespace App\myPlugins;
+namespace huoybb\phalconExt\myPlugins;
 use Carbon\Carbon;
 use Closure;
 use Phalcon\Mvc\Model;

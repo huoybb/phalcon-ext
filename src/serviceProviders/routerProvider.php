@@ -6,10 +6,10 @@
  * Time: 11:33
  */
 
-namespace App\serviceProviders;
+namespace huoybb\phalconExt\serviceProviders;
 
 
-use App\myPlugins\myProvider;
+use huoybb\phalconExt\myPlugins\myProvider;
 
 class routerProvider extends myProvider
 {

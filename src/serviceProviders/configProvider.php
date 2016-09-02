@@ -6,10 +6,10 @@
  * Time: 17:29
  */
 
-namespace App\serviceProviders;
+namespace huoybb\phalconExt\serviceProviders;
 
 
-use App\myPlugins\myProvider;
+use huoybb\phalconExt\myPlugins\myProvider;
 
 class configProvider extends myProvider
 {

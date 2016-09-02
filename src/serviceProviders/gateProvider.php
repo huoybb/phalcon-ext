@@ -6,10 +6,10 @@
  * Time: 20:38
  */
 
-namespace App\serviceProviders;
+namespace huoybb\phalconExt\serviceProviders;
 
 
-use App\myPlugins\myProvider;
+use huoybb\phalconExt\myPlugins\myProvider;
 
 class gateProvider extends myProvider
 {

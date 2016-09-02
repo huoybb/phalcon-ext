@@ -6,10 +6,10 @@
  * Time: 8:42
  */
 
-namespace App\serviceProviders;
+namespace huoybb\phalconExt\serviceProviders;
 
 
-use App\myPlugins\myProvider;
+use huoybb\phalconExt\myPlugins\myProvider;
 use Phalcon\Http\Response\Cookies;
 
 class cookiesProvider  extends myProvider

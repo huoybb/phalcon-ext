@@ -1,5 +1,5 @@
 <?php
-namespace App\myPlugins;
+namespace huoybb\phalconExt\myPlugins;
 use Carbon\Carbon;
 use GuzzleHttp\Client;
 use Pages;

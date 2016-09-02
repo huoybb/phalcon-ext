@@ -6,8 +6,8 @@
  * Time: 12:19
  */
 
-namespace App\serviceProviders;
-use App\myPlugins\myProvider;
+namespace huoybb\phalconExt\serviceProviders;
+use huoybb\phalconExt\myPlugins\myProvider;
 use Phalcon\Flash\Session as Flash;
 
 class flashProvider extends myProvider

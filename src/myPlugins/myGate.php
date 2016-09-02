@@ -1,5 +1,5 @@
 <?php
-namespace App\myPlugins;
+namespace huoybb\phalconExt\myPlugins;
 use AuthFacade;
 use InvalidArgumentException;
 

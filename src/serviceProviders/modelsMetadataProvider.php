@@ -6,8 +6,8 @@
  * Time: 12:16
  */
 
-namespace App\serviceProviders;
-use App\myPlugins\myProvider;
+namespace huoybb\phalconExt\serviceProviders;
+use huoybb\phalconExt\myPlugins\myProvider;
 use Phalcon\Mvc\Model\MetaData\Memory;
 
 class modelsMetadataProvider extends myProvider
